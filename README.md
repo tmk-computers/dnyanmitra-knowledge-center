@@ -38,7 +38,8 @@ dnyanmitra-knowledge-center/
     ├── 21-Governance/                  # Ownership matrices & git workflow policies
     ├── 22-Style-Guide/                 # Writing mechanics, UK spellings, currency
     ├── 23-Examples/                    # Validated model implementations
-    └── 24-Archive/                     # Deprecation & archiving guidelines
+    ├── 24-Archive/                     # Deprecation & archiving guidelines
+    └── 25-Due-Diligence-Kit/           # Transparency disclosures & candidate onboarding packages
 ```
 
 For a comprehensive index of all standards and guidelines, please consult the [Content Standards Index README](content-standards/README.md).

@@ -31,6 +31,7 @@ Must be a 3-to-6 letter uppercase code indicating the directory or domain contex
 - `BRAND` (Brand Guidelines)
 - `PPT` (Presentations)
 - `SPCH` (Speech & Pitch Scripts)
+- `DD` (Due Diligence Kit)
 - `DOC` (Documentation Standards)
 - `ROLE` (Role Manuals)
 - `SALES` (Outbound Scripts & Sales Strategy)

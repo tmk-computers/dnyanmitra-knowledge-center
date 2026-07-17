@@ -55,7 +55,8 @@ content-standards/
 ├── 21-Governance/                      # Content lifecycle, review loops, access control
 ├── 22-Style-Guide/                     # Writing mechanics, spellings, numbers, currency
 ├── 23-Examples/                        # Reference files showcasing implementations
-└── 24-Archive/                         # Deprecation and archiving rules
+├── 24-Archive/                         # Deprecation and archiving rules
+└── 25-Due-Diligence-Kit/               # Transparency disclosures & candidate onboarding packages
 ```
 
 ---
