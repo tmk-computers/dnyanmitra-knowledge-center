@@ -7,4 +7,5 @@ Unlike the `/content-standards` directory which governs the *standards* and *tem
 ## 📂 Subdirectories
 
 - [presentations/](presentations/README.md): Slide decks, pitch scripts, and engagement guides for demo sessions.
+- [sales/](sales/README.md): Active call scripts, pitch sheets, and objection handlers.
 - [training/](training/README.md): Operational training guides and onboarding manuals.

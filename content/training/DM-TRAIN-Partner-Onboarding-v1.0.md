@@ -29,6 +29,7 @@ graph TD
 ### Phase 1: Sourcing & Initial Engagement
 - **Objective**: Engage local technology and education leaders (such as computer training institute owners) and generate interest without pitching aggressively.
 - **Meeting Format**: 20-30 Minute introductory dialogue.
+- **Invitation Call Script**: [DM-SALES-Taluka-Head-Call-Script-v1.0.md](../sales/DM-SALES-Taluka-Head-Call-Script-v1.0.md) (Multi-lingual invitation script).
 - **Reference Script**: [DM-SPCH-Taluka-Head-Demo-v1.0.md](../presentations/DM-SPCH-Taluka-Head-Demo-v1.0.md) (First meeting speech guide).
 - **Core Guideline**: Do not perform detailed background evaluation in this meeting. Position candidates as regional technology partners.
 
