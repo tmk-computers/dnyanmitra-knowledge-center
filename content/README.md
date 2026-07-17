@@ -6,4 +6,5 @@ Unlike the `/content-standards` directory which governs the *standards* and *tem
 
 ## 📂 Subdirectories
 
-- [presentations/](../content/presentations/): Slide decks, pitch scripts, and engagement guides for demo sessions.
+- [presentations/](presentations/README.md): Slide decks, pitch scripts, and engagement guides for demo sessions.
+- [training/](training/README.md): Operational training guides and onboarding manuals.
