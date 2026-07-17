@@ -63,6 +63,6 @@ graph TD
 ## 🔗 Related Resources
 
 For the governance rules, checklists, and style guidelines associated with this example, consult:
-- [DASP-GOV-Content-Lifecycle-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/21-Governance/DASP-GOV-Content-Lifecycle-v1.0.md)
-- [DASP-CHK-Pre-Publishing-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/20-Checklists/DASP-CHK-Pre-Publishing-v1.0.md)
-- [DASP-STYLE-Writing-Mechanics-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/22-Style-Guide/DASP-STYLE-Writing-Mechanics-v1.0.md)
+- [DASP-GOV-Content-Lifecycle-v1.0.md](../../content-standards/21-Governance/DASP-GOV-Content-Lifecycle-v1.0.md)
+- [DASP-CHK-Pre-Publishing-v1.0.md](../../content-standards/20-Checklists/DASP-CHK-Pre-Publishing-v1.0.md)
+- [DASP-STYLE-Writing-Mechanics-v1.0.md](../../content-standards/22-Style-Guide/DASP-STYLE-Writing-Mechanics-v1.0.md)

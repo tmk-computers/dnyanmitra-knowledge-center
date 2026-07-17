@@ -56,10 +56,10 @@ graph TD
 
 ---
 
-## 🔗 Absolute File Linking Rules
+## 🔗 Relative File Linking Rules
 
 When linking to files within the workspace:
-1. Use the absolute file link syntax with the `file:///` protocol and forward slashes.
+1. Use relative file links to ensure portability and clickability on GitHub and local clones.
 2. Do not wrap file links in backticks.
-   - *Correct*: [DASP-STYLE-Writing-Mechanics-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/22-Style-Guide/DASP-STYLE-Writing-Mechanics-v1.0.md)
-   - *Incorrect*: [`DASP-STYLE-Writing-Mechanics-v1.0.md`](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/22-Style-Guide/DASP-STYLE-Writing-Mechanics-v1.0.md)
+   - *Correct*: [DASP-STYLE-Writing-Mechanics-v1.0.md](../../content-standards/22-Style-Guide/DASP-STYLE-Writing-Mechanics-v1.0.md)
+   - *Incorrect*: [`DASP-STYLE-Writing-Mechanics-v1.0.md`](../../content-standards/22-Style-Guide/DASP-STYLE-Writing-Mechanics-v1.0.md)

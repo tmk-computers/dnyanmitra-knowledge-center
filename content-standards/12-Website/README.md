@@ -4,5 +4,5 @@ This directory governs SEO meta configurations, landing page copywriting modular
 
 ## 📂 Directory Contents
 
-- [DM-WEB-SEO-Guidelines-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/12-Website/DM-WEB-SEO-Guidelines-v1.0.md): Rules for title tag character counts, meta description CTAs, and alt text specifications.
-- [DM-WEB-Homepage-Layout-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/12-Website/DM-WEB-Homepage-Layout-v1.0.md): Modular layout guidelines and copy blocks for the DnyanMitra homepage.
+- [DM-WEB-SEO-Guidelines-v1.0.md](../../content-standards/12-Website/DM-WEB-SEO-Guidelines-v1.0.md): Rules for title tag character counts, meta description CTAs, and alt text specifications.
+- [DM-WEB-Homepage-Layout-v1.0.md](../../content-standards/12-Website/DM-WEB-Homepage-Layout-v1.0.md): Modular layout guidelines and copy blocks for the DnyanMitra homepage.

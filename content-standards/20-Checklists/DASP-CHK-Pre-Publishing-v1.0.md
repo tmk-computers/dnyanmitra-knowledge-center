@@ -16,7 +16,7 @@ This document details the mandatory quality checks that human copywriters and AI
 ## 🗂️ 1. Technical & Syntax Checks
 - [ ] **Frontmatter Block**: Verify that a valid YAML frontmatter block is present at the very top of the file, with all fields (`title`, `category`, `status`, `last_updated`, `version`, `owner`) populated.
 - [ ] **No Placeholders**: Scan the document for bracketed text (e.g. `[Insert Date]`) or Latin fillers. Ensure dynamic variables use `{{variable_name}}`.
-- [ ] **File Links**: Verify all file links are valid and active. Ensure they use the `file:///` protocol and do NOT have backticks surrounding the link text.
+- [ ] **File Links**: Verify all file links are valid, active, and relative (to ensure portability and clickability on GitHub). Do not wrap links in backticks.
 - [ ] **Markdown Syntax**: Ensure all tables, bulleted lists, and blockquotes render correctly without broken markers.
 
 ---

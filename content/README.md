@@ -6,4 +6,4 @@ Unlike the `/content-standards` directory which governs the *standards* and *tem
 
 ## 📂 Subdirectories
 
-- [presentations/](file:///D:/company/products/dnyanmitra-knowledge-center/content/presentations/): Slide decks, pitch scripts, and engagement guides for demo sessions.
+- [presentations/](../content/presentations/): Slide decks, pitch scripts, and engagement guides for demo sessions.

@@ -4,4 +4,4 @@ This directory contains the master layout template files for starting any new co
 
 ## 📂 Directory Contents
 
-- [DASP-TEMP-Master-Document-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/19-Templates/DASP-TEMP-Master-Document-v1.0.md): Copy-paste Markdown file containing YAML metadata schemas, standard formatting elements, alerts, tables, and workflow placeholders.
+- [DASP-TEMP-Master-Document-v1.0.md](../../content-standards/19-Templates/DASP-TEMP-Master-Document-v1.0.md): Copy-paste Markdown file containing YAML metadata schemas, standard formatting elements, alerts, tables, and workflow placeholders.

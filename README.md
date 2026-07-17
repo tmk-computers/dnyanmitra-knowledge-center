@@ -8,7 +8,7 @@ This repository does not contain application source code. It contains the standa
 
 ## 📂 Repository Structure
 
-The core documentation standard framework is located in the [content-standards/](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/) directory, organized into 24 specialized folders:
+The core documentation standard framework is located in the [content-standards/](content-standards/) directory, organized into 24 specialized folders:
 
 ```text
 dnyanmitra-knowledge-center/
@@ -41,7 +41,7 @@ dnyanmitra-knowledge-center/
     └── 24-Archive/                     # Deprecation & archiving guidelines
 ```
 
-For a comprehensive index of all standards and guidelines, please consult the [Content Standards Index README](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/README.md).
+For a comprehensive index of all standards and guidelines, please consult the [Content Standards Index README](content-standards/README.md).
 
 ---
 
@@ -53,8 +53,8 @@ All documents (excluding directory-level `README.md` files) must use the followi
 
 - **Prefixes**: `DM-` (DnyanMitra), `DASP-` (Shared corporate), `KM-` (KridaMitra), `KR-` (KrushiMitra), `ZV-` (ZilaValley).
 - **Example**:
-  - [DM-SALES-Cold-Calling-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/05-Sales/DM-SALES-Cold-Calling-v1.0.md) (DnyanMitra outbound phone script)
-  - [DASP-STYLE-Writing-Mechanics-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/22-Style-Guide/DASP-STYLE-Writing-Mechanics-v1.0.md) (Shared style mechanics)
+  - [DM-SALES-Cold-Calling-v1.0.md](content-standards/05-Sales/DM-SALES-Cold-Calling-v1.0.md) (DnyanMitra outbound phone script)
+  - [DASP-STYLE-Writing-Mechanics-v1.0.md](content-standards/22-Style-Guide/DASP-STYLE-Writing-Mechanics-v1.0.md) (Shared style mechanics)
 
 ---
 
@@ -66,6 +66,6 @@ Every standard document in this repository is designed to be **AI-Friendly**. We
 
 ## 🤝 Contribution Guidelines
 
-1. **Copy the Template**: To create a new standard or guide, start by copying the [DASP-TEMP-Master-Document-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/19-Templates/DASP-TEMP-Master-Document-v1.0.md).
-2. **Execute the Checklist**: Run all verification checks inside the [DASP-CHK-Pre-Publishing-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/20-Checklists/DASP-CHK-Pre-Publishing-v1.0.md).
-3. **Submit a Pull Request**: Submit your draft as a Git Pull Request. The changes will be reviewed by the folder owner according to the [DASP-GOV-Content-Lifecycle-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/21-Governance/DASP-GOV-Content-Lifecycle-v1.0.md) policy.
+1. **Copy the Template**: To create a new standard or guide, start by copying the [DASP-TEMP-Master-Document-v1.0.md](content-standards/19-Templates/DASP-TEMP-Master-Document-v1.0.md).
+2. **Execute the Checklist**: Run all verification checks inside the [DASP-CHK-Pre-Publishing-v1.0.md](content-standards/20-Checklists/DASP-CHK-Pre-Publishing-v1.0.md).
+3. **Submit a Pull Request**: Submit your draft as a Git Pull Request. The changes will be reviewed by the folder owner according to the [DASP-GOV-Content-Lifecycle-v1.0.md](content-standards/21-Governance/DASP-GOV-Content-Lifecycle-v1.0.md) policy.

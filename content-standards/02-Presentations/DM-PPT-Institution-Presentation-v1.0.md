@@ -9,7 +9,7 @@ owner: "Sales Team"
 
 # School Trustee Pitch Presentation Example
 
-This document demonstrates a fully populated instance of the [DM-PPT-Template-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/02-Presentations/DM-PPT-Template-v1.0.md) slide configuration.
+This document demonstrates a fully populated instance of the [DM-PPT-Template-v1.0.md](../../content-standards/02-Presentations/DM-PPT-Template-v1.0.md) slide configuration.
 
 ---
 

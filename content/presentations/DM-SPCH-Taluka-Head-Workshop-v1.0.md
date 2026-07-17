@@ -130,7 +130,7 @@ Evaluate candidates objectively using this weighted rubric:
 
 Within 24 hours of the workshop, email the candidate:
 - **DnyanMitra Overview** & Company Profile.
-- **Taluka Head Role Guide** ([DM-ROLE-Taluka-Head-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/04-Role-Guides/DM-ROLE-Taluka-Head-v1.0.md)).
+- **Taluka Head Role Guide** ([DM-ROLE-Taluka-Head-v1.0.md](../../content-standards/04-Role-Guides/DM-ROLE-Taluka-Head-v1.0.md)).
 - **Revenue Sharing and Compensation Policy**.
 - **Product Catalogue & 90-Day Action Plan**.
 - **Next Steps Checklists**.

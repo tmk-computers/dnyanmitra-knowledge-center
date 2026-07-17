@@ -4,5 +4,5 @@ This directory defines roles, responsibilities, workflows, and operating constra
 
 ## 📂 Directory Contents
 
-- [DM-ROLE-Taluka-Head-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/04-Role-Guides/DM-ROLE-Taluka-Head-v1.0.md): Example role guide and performance rubric for DnyanMitra Taluka regional leaders.
-- [DASP-ROLE-Agent-Guidelines-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/04-Role-Guides/DASP-ROLE-Agent-Guidelines-v1.0.md): System prompt directives and hard formatting rules for AI content/editorial agents.
+- [DM-ROLE-Taluka-Head-v1.0.md](../../content-standards/04-Role-Guides/DM-ROLE-Taluka-Head-v1.0.md): Example role guide and performance rubric for DnyanMitra Taluka regional leaders.
+- [DASP-ROLE-Agent-Guidelines-v1.0.md](../../content-standards/04-Role-Guides/DASP-ROLE-Agent-Guidelines-v1.0.md): System prompt directives and hard formatting rules for AI content/editorial agents.

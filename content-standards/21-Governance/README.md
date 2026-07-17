@@ -4,4 +4,4 @@ This directory governs ownership matrices, review cycles, git workflows, and acc
 
 ## 📂 Directory Contents
 
-- [DASP-GOV-Content-Lifecycle-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/21-Governance/DASP-GOV-Content-Lifecycle-v1.0.md): Guidelines defining business ownership, scheduled review cadences, and Pull Request (PR) guidelines.
+- [DASP-GOV-Content-Lifecycle-v1.0.md](../../content-standards/21-Governance/DASP-GOV-Content-Lifecycle-v1.0.md): Guidelines defining business ownership, scheduled review cadences, and Pull Request (PR) guidelines.

@@ -48,4 +48,4 @@ For security purposes, reset links expire after **10 minutes**. If your link has
 
 ## 🔗 Related Resources
 
-- [DM-SOP-Vendor-KYC-Verification-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/18-SOP/DM-SOP-Vendor-KYC-Verification-v1.0.md)
+- [DM-SOP-Vendor-KYC-Verification-v1.0.md](../../content-standards/18-SOP/DM-SOP-Vendor-KYC-Verification-v1.0.md)

@@ -4,4 +4,4 @@ This directory governs all specifications, naming rules, file size boundaries, a
 
 ## 📂 Directory Contents
 
-- [DASP-IMG-Technical-Specs-v1.0.md](file:///D:/company/products/dnyanmitra-knowledge-center/content-standards/14-Images/DASP-IMG-Technical-Specs-v1.0.md): Technical parameters (WebP, PNG, SVG), compression rules, naming schemas, and visual guidelines.
+- [DASP-IMG-Technical-Specs-v1.0.md](../../content-standards/14-Images/DASP-IMG-Technical-Specs-v1.0.md): Technical parameters (WebP, PNG, SVG), compression rules, naming schemas, and visual guidelines.
