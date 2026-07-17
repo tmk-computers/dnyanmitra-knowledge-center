@@ -30,6 +30,7 @@ Every markdown document created in this repository must use this format:
 Must be a 3-to-6 letter uppercase code indicating the directory or domain context:
 - `BRAND` (Brand Guidelines)
 - `PPT` (Presentations)
+- `SPCH` (Speech & Pitch Scripts)
 - `DOC` (Documentation Standards)
 - `ROLE` (Role Manuals)
 - `SALES` (Outbound Scripts & Sales Strategy)
