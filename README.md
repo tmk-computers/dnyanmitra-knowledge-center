@@ -8,41 +8,19 @@ This repository does not contain application source code. It contains the standa
 
 ## 📂 Repository Structure
 
-The core documentation standard framework is located in the [content-standards/](content-standards/) directory, organized into 24 specialized folders:
+The repository is organized into three primary hubs at the root level:
 
-```text
-dnyanmitra-knowledge-center/
-├── README.md                           # This file (Repository Root Overview)
-└── content-standards/                  # Content Standards Root
-    ├── README.md                       # Standards Directory Index
-    ├── 01-Brand/                       # Brand guides & platform suite expansion rules
-    ├── 02-Presentations/               # Visual grids and slide copy templates
-    ├── 03-Documentation/               # Markdown hierarchies and naming conventions
-    ├── 04-Role-Guides/                 # Human role playbooks & AI agent guidelines
-    ├── 05-Sales/                       # Calling scripts & sales outreach templates
-    ├── 06-Marketing/                   # Campaign briefs & social copy layouts
-    ├── 07-Research/                    # Academic whitepapers & market analyses
-    ├── 08-Surveys/                     # Feedback loop questionnaire designs
-    ├── 09-Procurement-Guides/          # RFP layouts & item specs templates
-    ├── 10-Institutional-Excellence/    # School trustee board engagement formats
-    ├── 11-AI/                          # Prompt structures & system prompts
-    ├── 12-Website/                     # SEO metadata rules & homepage layouts
-    ├── 13-Training/                    # Franchise partner onboarding modules
-    ├── 14-Images/                      # Technical sizing & visual guidelines
-    ├── 15-Videos/                      # Narrative pacing scripts & storyboards
-    ├── 16-Product-Documentation/       # Release notes & API schemas
-    ├── 17-Knowledge-Base/              # Self-service articles & search tags
-    ├── 18-SOP/                         # SOP procedures & process flowcharts
-    ├── 19-Templates/                   # Master copy-paste templates
-    ├── 20-Checklists/                  # Pre-publishing compliance checkers
-    ├── 21-Governance/                  # Ownership matrices & git workflow policies
-    ├── 22-Style-Guide/                 # Writing mechanics, UK spellings, currency
-    ├── 23-Examples/                    # Validated model implementations
-    ├── 24-Archive/                     # Deprecation & archiving guidelines
-    └── 25-Due-Diligence-Kit/           # Transparency disclosures & candidate onboarding packages
-```
+1. **[content-standards/](content-standards/) (Content Standards)**: Contains 25 folders detailing quality rules, stylesheets, presentation templates, and due diligence resources.
+2. **[content/](content/) (Active Operations)**: Contains live presentations, sales calling scripts, and onboarding training guides.
+3. **[docs/](docs/) (Operational Frameworks)**: Contains role onboarding workflows, legal templates, NDAs, and reporting forms.
 
-For a comprehensive index of all standards and guidelines, please consult the [Content Standards Index README](content-standards/README.md).
+### Onboarding Framework Directory
+Located in [docs/30-Onboarding-Framework/](docs/30-Onboarding-Framework/):
+- **Overview & Workflows**: Overview of roles and the 16-stage pipeline map.
+- **03-Taluka-Head/**: Candidate forms, legal agreements, KYC checks, NDAs, and first-month plans for TH partners.
+- **04-Field-Sales-Executive/**: HR files, salary structures, travel limits, and incentive frameworks for FSE staff.
+- **05-Shared/**: Corporate profiles, manuals, catalogues, playbook logs, and escalation pathways.
+- **06-Templates/**: Reusable emails, WhatsApp templates, minutes sheets, and review checklists.
 
 ---
 
